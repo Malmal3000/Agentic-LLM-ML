@@ -2,6 +2,4 @@
 All LLM, ML, and Agentic AI projects
 
 **Projects:**
-Manipulating images
-Natural Language Database
-Social Recommendation System
+Focused around manipulating images, using Natural Language models with databases, social recommendation systems
